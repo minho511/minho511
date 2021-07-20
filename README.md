@@ -15,8 +15,3 @@
   - 금 : 정렬
   - 토 : 이진탐색
   - 일 : 다이나믹 프로그래밍  
-#### 일별
-- 생활코딩 WEB2 Python 강의 들어보기 [링크](https://opentutorials.org/course/3256)
-- 딥러닝 계획 다시잡기
-</div>
-</details>
