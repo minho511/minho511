@@ -1,5 +1,7 @@
 # minho511
-Computer_Vision  
-Machine_Learning
+## 관심
+- Computer_Vision  
+- Machine_Learning
+- Android
 
 Python/C++/Java
