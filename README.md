@@ -2,6 +2,6 @@
 ## 관심
 - Computer_Vision  
 - Machine_Learning
-- Android
+- Android / ios
 
-Python/C++/Java
+Python/C++/Java/Swift
