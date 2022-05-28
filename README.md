@@ -15,6 +15,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
 
-[![minho511's github stats](https://github-readme-stats.vercel.app/api?username=minho511&count_private=1&custom_title=min511&bg_color=0,F2F2F2,F2F2F2&title_color=939393&text_color=00000)](https://github.com/anuraghazra/github-readme-stats)
+[![minho511's github stats](https://github-readme-stats.vercel.app/api?username=minho511&count_private=1&custom_title=minho511&bg_color=0,F2F2F2,F2F2F2&title_color=939393&text_color=00000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![minh511's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minho511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)1
