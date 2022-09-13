@@ -8,4 +8,6 @@
 
 [![minho511's github stats](https://github-readme-stats.vercel.app/api?username=minho511&count_private=1&custom_title=minho511&bg_color=0,F2F2F2,F2F2F2&title_color=939393&text_color=00000)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=m980107)](https://solved.ac/m980107/)
+
 [![minh511's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minho511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
