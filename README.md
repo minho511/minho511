@@ -6,8 +6,9 @@ ___
 - I am interested in artificial intelligence technology, particularly in Vision Language Models (VLMs) and Zero-Shot Learning.
 
 - More specifically, I am currently studying and have an interest in the following technologies.
-    - `Persion Re-Identification`
+    
     - `Compositional Zero-Shot Learning`
+    - `Persion Re-Identification`
     - `Prompt Tuning`
     - `self-supervised learning`
     - `metric learning`
