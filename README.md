@@ -16,7 +16,7 @@ ___
     - ...
 ___
 
-#### Awards
+## Awards
 - 2023, [제3회 CJ대한통운 미래기술챌린지 대상 (1st)](https://news.mt.co.kr/mtview.php?no=2023091808241157937)  
     `Object Detection`, `Long-Tail Learning`, `Image Processing`
 - 2023, [The 1st Koh Young AI Competition (1st)](http://m.irobotnews.com/news/articleView.html?idxno=32989)  
