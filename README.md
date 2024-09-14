@@ -8,10 +8,10 @@ ___
 - More specifically, I am currently studying and have an interest in the following technologies.
     - `Persion Re-Identification`
     - `Compositional Zero-Shot Learning`
+    - `Prompt Tuning`
     - `self-supervised learning`
     - `metric learning`
     - `continual learning`
-    - `meta learning`
     - ...
 ___
 
