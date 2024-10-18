@@ -17,7 +17,7 @@ ___
 ___
 
 ## Awards
-- 2024, [Fashion-How 시즌 5 : ETRI 자율성장 인공지능 경진대회 최우수상, 과학기술정보통신부 장관상 (1st)](https://fashion-how.org/Season5-task/?subTaskId=4)  
+- 2024, [Fashion-How 시즌 5 : ETRI 자율성장 인공지능 경진대회 최우수상, 과학기술정보통신부 장관상 (1st)](https://www.aitimes.kr/news/articleView.html?idxno=32475)  
     `Multi-Label Classification`, `Long-Tail Learning`, `Multi-Modal Zero-Shot Learning`, `Continual Learning`
 - 2023, [제3회 CJ대한통운 미래기술챌린지 대상 (1st)](https://news.mt.co.kr/mtview.php?no=2023091808241157937)  
     `Object Detection`, `Long-Tail Learning`, `Image Processing`
