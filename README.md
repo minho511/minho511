@@ -25,3 +25,7 @@ ___
     `Continual Learning`, `Image Classification`
 - 2023, [서울과학기술대학교 전기정보공학과 졸업작품전시회 우수상 (1st)](https://eie.seoultech.ac.kr/majornotice/notice/?do=view&profboardidx=0&bnum=973&bidx=541490&cate=7&allboard=false&nowpage=1)  
     `Unity`,`C#`,`Android`,`Hand Gesture Recognition`,`Hand Pose Estimation`
+
+___
+## Contact me
+email : mhkim98@seoultech.ac.kr
