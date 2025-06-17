@@ -17,7 +17,7 @@ I’ve focused my work on theoretical deep learning and machine learning researc
 - Additional: Object Detection, Continual Learning, Long-Tail Learning
 
 #### Research Experience
-- Visual Computing Lab (VCL) (Nov 2022 – Present)
+- Visual Computing Lab (VCL) (Nov 2021 – Present)
     - **Person Re-Identification (2022–2025)**
         - paper 1 : First-author, [Cross-Domain Person Re-Identification Using Value Distribution Alignment](https://ieeexplore.ieee.org/abstract/document/10316745) (international conference)
         - paper 2 : Co-authored domain-generalization Re-ID paper (journal submission)
