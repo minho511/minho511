@@ -49,7 +49,7 @@ I’ve focused my work on theoretical deep learning and machine learning researc
 - 2023, [서울과학기술대학교 전기정보공학과 졸업작품전시회 우수상 (1st)](https://eie.seoultech.ac.kr/majornotice/notice/?do=view&profboardidx=0&bnum=973&bidx=541490&cate=7&allboard=false&nowpage=1)  
     *Seoul National University of Science and Technology Electrical and Information Engineering Graduation Exhibition Excellence Award (1st)*  
     `Unity`,`C#`,`Android`,`Hand Gesture Recognition`,`Hand Pose Estimation`
-
+    -  paper 1 : First-author, ["Development of an On-device XR Workspace System Using Real-time Hand Gesture Recognition With a Mobile Two-dimensional Camera"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12154343), (domestic journal)
 
 
 
