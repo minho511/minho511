@@ -31,7 +31,7 @@ I’ve focused my work on theoretical deep learning and machine learning researc
         - +1 patent application filed
         - Project: “AI-Based Driver Drowsiness Detection” (IITP-2025-RS-2020-II201741)
     - **Compositional Zero-Shot Learning (2023 – Present)**
-        - paper 1: Developed a feature-generative method; submitted to NeurIPS and IJCAI (not accepted), and currently under submission to other top-tier conferences.
+        - paper 1: Developed a feature-generative method; currently under submission to other top-tier conferences.
     - **Large-Scene 3D Reconstruction (2025 – Present)**
         - Project: Research on 3D Gaussian Splatting in collaboration with **MORAI** & **UCSD** (IITP-2025-RS-2020-II201741)
 
