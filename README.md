@@ -10,28 +10,28 @@ I’ve focused my work on theoretical deep learning and machine learning researc
 #### Interests
 - **3D Gaussian Splatting**: Active experimentation and development
 
-- **Person Re-Identification**: Ongoing submissions; IEEE TNNLS reviewer (2024, 2025)
+- **Person Re-Identification**: Under review (International Journal); IEEE TNNLS reviewer (2024, 2025)
 
-- **Zero-Shot Learning (Compositional, Multi-Modal)**: Pursuing top-tier conference papers
+- **Zero-Shot Learning (Compositional, Multi-Modal)**: Under review (International Journal)
 
 - Additional: Object Detection, Continual Learning, Long-Tail Learning
 
 #### Research Experience
 - Visual Computing Lab (VCL) (Nov 2021 – Present)
     - **Person Re-Identification (2022–2025)**
-        - paper 1 : First-author, [Cross-Domain Person Re-Identification Using Value Distribution Alignment](https://ieeexplore.ieee.org/abstract/document/10316745) (international conference)
-        - paper 2 : Co-authored domain-generalization Re-ID paper (journal submission)
-        - +1 patent application filed
+        ∘ First-author : Cross-Domain Person Re-ID (International Conference)
+        ∘ Co-author : Domain Generalization & Long-term Person Re-ID (Under review, International Journal)
+        ∘ Patent application submitted
         - Project: “Self-Supervised Feature Learning for Robust Person Re-Identification” (Korea NRF, 2022R1F1A1062950)
     - **4D Panoptic Segmentation (2023–2025)**
-        - paper 1 : Co-authored ["SP2Mask4D: Efficient 4D Panoptic Segmentation"](https://ieeexplore.ieee.org/abstract/document/10879637) (international conference)
+        ∘ Co-author : 4D Panoptic Segmentation (International Conference)
         - Project: “Streaming 3D Digital Media Service Technology” (IITP RS-2023-00229330)
     - **Driver Drowsiness Detection (Jun 2024 – Dec 2024)**
-        -  paper 1 : First-author, ["Class-Balanced Methods for Enhanced Driver Drowsiness Recognition"](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12036526&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true), (domestic conference)
-        - +1 patent application filed
+        ∘ First-author : Video Recognition / Data augmetnation / Diffusion (Domastic Conference)
+        ∘ Patent application submitted
         - Project: “AI-Based Driver Drowsiness Detection” (IITP-2025-RS-2020-II201741)
     - **Compositional Zero-Shot Learning (2023 – Present)**
-        - paper 1: Developed a feature-generative method; currently under submission to other top-tier conferences.
+        ∘ First-author: Achieved SOTA in CZSL (Under reivew, international journal)
     - **Large-Scene 3D Reconstruction (2025 – Present)**
         - Project: Research on 3D Gaussian Splatting in collaboration with **MORAI** & **UCSD** (IITP-2025-RS-2020-II201741)
 
