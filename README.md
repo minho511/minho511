@@ -5,7 +5,7 @@ ___
 Hello, I’m Minho Kim, an M.S. candidate in Electrical and Information Engineering at Seoul National University of Science and Technology (SNUT), expecting to graduate in February 2026. 
 I’ve focused my work on theoretical deep learning and machine learning research, but through competitions and projects, I’ve come to appreciate the excitement and necessity of practical AI development. I’m now looking to join an innovative AI team where I can contribute to real-world solutions and grow alongside talented collaborators.
 
-<p align="left"><a href="https://www.notion.so/22c70dba2e3180cab267ce308635d130?source=copy_link"> <img height="40px" src="https://img.icons8.com/ios/250/000000/notion.png"/></a> <a href="https://www.linkedin.com/in/minho-kim-892b9325a/"> <img height="40px" src="https://img.icons8.com/ios/250/000000/linkedin.png" /></a></p>
+ <a href="https://www.linkedin.com/in/minho-kim-892b9325a/"> <img height="40px" src="https://img.icons8.com/ios/250/000000/linkedin.png" /></a></p>
 
 #### Interests
 - **3D Gaussian Splatting**: Active experimentation and development
